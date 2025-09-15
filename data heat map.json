@@ -1,254 +1,38 @@
 [
   {
-    "chromosome": "1",
-    "variant": "likely_pathogenic",
-    "value": 62.38,
-    "gene": "ARID1A"
+    "chr": "1",
+    "pos": 1,
+    "vars": {
+      "gene": "ARID1A",
+      "variant": "likely_pathogenic",
+      "value": 62.38
+    }
   },
   {
-    "chromosome": "1",
-    "variant": "likely_benign",
-    "value": 10.04,
-    "gene": "PTCH2"
+    "chr": "1",
+    "pos": 2,
+    "vars": {
+      "gene": "PTCH2",
+      "variant": "likely_benign",
+      "value": 10.04
+    }
   },
   {
-    "chromosome": "2",
-    "variant": "likely_benign",
-    "value": 32.95,
-    "gene": "MSH6"
+    "chr": "2",
+    "pos": 1,
+    "vars": {
+      "gene": "MSH6",
+      "variant": "likely_benign",
+      "value": 32.95
+    }
   },
   {
-    "chromosome": "2",
-    "variant": "likely_pathogenic",
-    "value": 98.05,
-    "gene": "IDH1"
-  },
-  {
-    "chromosome": "2",
-    "variant": "likely_benign",
-    "value": 7.34,
-    "gene": "D2HGDH"
-  },
-  {
-    "chromosome": "3",
-    "variant": "likely_pathogenic",
-    "value": 99.84,
-    "gene": "CTNNB1"
-  },
-  {
-    "chromosome": "4",
-    "variant": "likely_pathogenic",
-    "value": 99.83,
-    "gene": "FGFR3"
-  },
-  {
-    "chromosome": "4",
-    "variant": "likely_benign",
-    "value": 7.72,
-    "gene": "HTT"
-  },
-  {
-    "chromosome": "4",
-    "variant": "likely_benign",
-    "value": 5.92,
-    "gene": "PDGFRA"
-  },
-  {
-    "chromosome": "5",
-    "variant": "unknown",
-    "value": 50.0,
-    "gene": "MCC"
-  },
-  {
-    "chromosome": "6",
-    "variant": "likely_benign",
-    "value": 6.18,
-    "gene": "BRPF3"
-  },
-  {
-    "chromosome": "6",
-    "variant": "ambiguous",
-    "value": 48.8,
-    "gene": "ARID1B"
-  },
-  {
-    "chromosome": "7",
-    "variant": "likely_benign",
-    "value": 7.59,
-    "gene": "MET"
-  },
-  {
-    "chromosome": "7",
-    "variant": "likely_pathogenic",
-    "value": 98.97,
-    "gene": "SMO"
-  },
-  {
-    "chromosome": "8",
-    "variant": "likely_benign",
-    "value": 7.17,
-    "gene": "MYC"
-  },
-  {
-    "chromosome": "9",
-    "variant": "unknown",
-    "value": 50.0,
-    "gene": "LURAP1L"
-  },
-  {
-    "chromosome": "9",
-    "variant": "likely_benign",
-    "value": 11.45,
-    "gene": "NTRK2"
-  },
-  {
-    "chromosome": "9",
-    "variant": "likely_benign",
-    "value": 12.74,
-    "gene": "PTCH1"
-  },
-  {
-    "chromosome": "9",
-    "variant": "unknown",
-    "value": 50.0,
-    "gene": "KLF4"
-  },
-  {
-    "chromosome": "9",
-    "variant": "likely_benign",
-    "value": 13.09,
-    "gene": "TSC1"
-  },
-  {
-    "chromosome": "9",
-    "variant": "likely_benign",
-    "value": 29.77,
-    "gene": "NOTCH1"
-  },
-  {
-    "chromosome": "10",
-    "variant": "ambiguous",
-    "value": 47.08,
-    "gene": "FGFR2"
-  },
-  {
-    "chromosome": "11",
-    "variant": "likely_benign",
-    "value": 12.17,
-    "gene": "ZFTA"
-  },
-  {
-    "chromosome": "12",
-    "variant": "likely_pathogenic",
-    "value": 73.03,
-    "gene": "KMT2D"
-  },
-  {
-    "chromosome": "12",
-    "variant": "ambiguous",
-    "value": 39.29,
-    "gene": "SMARCD1"
-  },
-  {
-    "chromosome": "12",
-    "variant": "unknown",
-    "value": 50.0,
-    "gene": "PHLDA1"
-  },
-  {
-    "chromosome": "12",
-    "variant": "unknown",
-    "value": 50.0,
-    "gene": "ATXN2"
-  },
-  {
-    "chromosome": "12",
-    "variant": "unknown",
-    "value": 50.0,
-    "gene": "HNF1A"
-  },
-  {
-    "chromosome": "13",
-    "variant": "likely_benign",
-    "value": 6.26,
-    "gene": "BRCA2"
-  },
-  {
-    "chromosome": "13",
-    "variant": "likely_benign",
-    "value": 7.68,
-    "gene": "RB1"
-  },
-  {
-    "chromosome": "14",
-    "variant": "likely_benign",
-    "value": 11.16,
-    "gene": "DICER1"
-  },
-  {
-    "chromosome": "16",
-    "variant": "likely_benign",
-    "value": 7.94,
-    "gene": "TSC2"
-  },
-  {
-    "chromosome": "16",
-    "variant": "ambiguous",
-    "value": 39.97,
-    "gene": "CREBBP"
-  },
-  {
-    "chromosome": "16",
-    "variant": "unknown",
-    "value": 50.0,
-    "gene": "GSE1"
-  },
-  {
-    "chromosome": "17",
-    "variant": "likely_benign",
-    "value": 7.24,
-    "gene": "TP53"
-  },
-  {
-    "chromosome": "17",
-    "variant": "likely_benign",
-    "value": 11.12,
-    "gene": "NF1"
-  },
-  {
-    "chromosome": "17",
-    "variant": "likely_pathogenic",
-    "value": 99.29,
-    "gene": "PPM1D"
-  },
-  {
-    "chromosome": "19",
-    "variant": "likely_benign",
-    "value": 7.7,
-    "gene": "SMARCA4"
-  },
-  {
-    "chromosome": "19",
-    "variant": "likely_benign",
-    "value": 17.92,
-    "gene": "NOTCH3"
-  },
-  {
-    "chromosome": "22",
-    "variant": "ambiguous",
-    "value": 41.07,
-    "gene": "LZTR1"
-  },
-  {
-    "chromosome": "X",
-    "variant": "likely_pathogenic",
-    "value": 57.53,
-    "gene": "DDX3X"
-  },
-  {
-    "chromosome": "X",
-    "variant": "likely_benign",
-    "value": 27.3,
-    "gene": "ATRX"
+    "chr": "2",
+    "pos": 2,
+    "vars": {
+      "gene": "IDH1",
+      "variant": "likely_pathogenic",
+      "value": 98.05
+    }
   }
 ]
