@@ -1,0 +1,163 @@
+[
+    {
+      "id": "ARID1A",
+      "group": 3,
+      "score": 0.6238,
+      "variant": "chr1:26697287_T>G"
+    },
+    {
+      "id": "PTCH2",
+      "group": 3,
+      "score": 0.1004,
+      "variant": "chr1:44823158_C>A"
+    },
+    {
+      "id": "MSH6",
+      "group": 3,
+      "score": 0.3295,
+      "variant": "chr2:47783492_A>C"
+    },
+    {
+      "id": "IDH1",
+      "group": 3,
+      "score": 0.9805,
+      "variant": "chr2:208248484_C>T"
+    },
+    {
+      "id": "D2HGDH",
+      "group": 3,
+      "score": 0.0734,
+      "variant": "chr2:241751311_G>A"
+    },
+    {
+      "id": "CTNNB1",
+      "group": 3,
+      "score": 0.9984,
+      "variant": "chr3:41233385_C>T"
+    },
+    {
+      "id": "FGFR3",
+      "group": 3,
+      "score": 0.9983,
+      "variant": "chr4:1806305_G>T"
+    },
+    {
+      "id": "HTT",
+      "group": 3,
+      "score": 0.0772,
+      "variant": "chr4:3074938_A>C"
+    },
+    {
+      "id": "PDGFRA",
+      "group": 3,
+      "score": 0.0592,
+      "variant": "chr4:54261247_G>A"
+    },
+    {
+      "id": "MCC",
+      "group": 3,
+      "score": 0.5,
+      "variant": "chr5:113488342_T>C"
+    },
+    {
+      "id": "BRPF3",
+      "group": 3,
+      "score": 0.0618,
+      "variant": "chr6:36225279_T>G"
+    },
+    {
+      "id": "ARID1B",
+      "group": 3,
+      "score": 0.488,
+      "variant": "chr6:156935479_A>G"
+    },
+    {
+      "id": "MET",
+      "group": 3,
+      "score": 0.0759,
+      "variant": "chr7:116700208_A>G"
+    },
+    {
+      "id": "SMO",
+      "group": 3,
+      "score": 0.9897,
+      "variant": "chr7:129210500_G>T"
+    },
+    {
+      "id": "MYC",
+      "group": 3,
+      "score": 0.0717,
+      "variant": "chr8:127738361_G>C"
+    },
+    {
+      "id": "LURAP1L",
+      "group": 3,
+      "score": 0.5,
+      "variant": "chr9:12775890_A>G"
+    },
+    {
+      "id": "NTRK2",
+      "group": 3,
+      "score": 0.1145,
+      "variant": "chr9:84670949_C>A"
+    },
+    {
+      "id": "PTCH1",
+      "group": 3,
+      "score": 0.1274,
+      "variant": "chr9:95447312_G>A"
+    },
+    {
+      "id": "KLF4",
+      "group": 3,
+      "score": 0.5,
+      "variant": "chr9:107485788_G>C"
+    },
+    {
+      "id": "TSC1",
+      "group": 3,
+      "score": 0.1309,
+      "variant": "chr9:132925607_A>T"
+    },
+    {
+      "id": "NOTCH1",
+      "group": 3,
+      "score": 0.2977,
+      "variant": "chr9:136501766_C>T"
+    },
+    {
+      "id": "FGFR2",
+      "group": 3,
+      "score": 0.4708,
+      "variant": "chr10:121551331_C>T"
+    },
+    {
+      "id": "ZFTA",
+      "group": 3,
+      "score": 0.1217,
+      "variant": "chr11:63765899_A>C"
+    },
+    {
+      "id": "KMT2D",
+      "group": 3,
+      "score": 0.7303,
+      "variant": "chr12:49051215_C>A"
+    },
+    {
+      "id": "SMARCD1",
+      "group": 3,
+      "score": 0.3929,
+      "variant": "chr12:50087406_C>T"
+    },
+    {
+      "id": "PHLDA1",
+      "group": 3,
+      "score": 0.5,
+      "variant": "chr12:76031172_C>-"
+    },
+    {
+      "id": "ATXN2",
+      "group": 3,
+      "score": 0.5,
+      "variant": "chr12:1115
+  
