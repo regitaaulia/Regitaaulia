@@ -1,0 +1,213 @@
+[
+    {
+      "group": "ARID1A",
+      "chromosome": "1",
+      "value": 62.38
+    },
+    {
+      "group": "PTCH2",
+      "chromosome": "1",
+      "value": 10.04
+    },
+    {
+      "group": "MSH6",
+      "chromosome": "2",
+      "value": 32.95
+    },
+    {
+      "group": "IDH1",
+      "chromosome": "2",
+      "value": 98.05
+    },
+    {
+      "group": "D2HGDH",
+      "chromosome": "2",
+      "value": 7.34
+    },
+    {
+      "group": "CTNNB1",
+      "chromosome": "3",
+      "value": 99.84
+    },
+    {
+      "group": "FGFR3",
+      "chromosome": "4",
+      "value": 99.83
+    },
+    {
+      "group": "HTT",
+      "chromosome": "4",
+      "value": 7.72
+    },
+    {
+      "group": "PDGFRA",
+      "chromosome": "4",
+      "value": 5.92
+    },
+    {
+      "group": "MCC",
+      "chromosome": "5",
+      "value": 50.0
+    },
+    {
+      "group": "BRPF3",
+      "chromosome": "6",
+      "value": 6.18
+    },
+    {
+      "group": "ARID1B",
+      "chromosome": "6",
+      "value": 48.8
+    },
+    {
+      "group": "MET",
+      "chromosome": "7",
+      "value": 7.59
+    },
+    {
+      "group": "SMO",
+      "chromosome": "7",
+      "value": 98.97
+    },
+    {
+      "group": "MYC",
+      "chromosome": "8",
+      "value": 7.17
+    },
+    {
+      "group": "LURAP1L",
+      "chromosome": "9",
+      "value": 50.0
+    },
+    {
+      "group": "NTRK2",
+      "chromosome": "9",
+      "value": 11.45
+    },
+    {
+      "group": "PTCH1",
+      "chromosome": "9",
+      "value": 12.74
+    },
+    {
+      "group": "KLF4",
+      "chromosome": "9",
+      "value": 50.0
+    },
+    {
+      "group": "TSC1",
+      "chromosome": "9",
+      "value": 13.09
+    },
+    {
+      "group": "NOTCH1",
+      "chromosome": "9",
+      "value": 29.77
+    },
+    {
+      "group": "FGFR2",
+      "chromosome": "10",
+      "value": 47.08
+    },
+    {
+      "group": "ZFTA",
+      "chromosome": "11",
+      "value": 12.17
+    },
+    {
+      "group": "KMT2D",
+      "chromosome": "12",
+      "value": 73.03
+    },
+    {
+      "group": "SMARCD1",
+      "chromosome": "12",
+      "value": 39.29
+    },
+    {
+      "group": "PHLDA1",
+      "chromosome": "12",
+      "value": 50.0
+    },
+    {
+      "group": "ATXN2",
+      "chromosome": "12",
+      "value": 50.0
+    },
+    {
+      "group": "HNF1A",
+      "chromosome": "12",
+      "value": 50.0
+    },
+    {
+      "group": "BRCA2",
+      "chromosome": "13",
+      "value": 6.26
+    },
+    {
+      "group": "RB1",
+      "chromosome": "13",
+      "value": 7.68
+    },
+    {
+      "group": "DICER1",
+      "chromosome": "14",
+      "value": 11.16
+    },
+    {
+      "group": "TSC2",
+      "chromosome": "16",
+      "value": 7.94
+    },
+    {
+      "group": "CREBBP",
+      "chromosome": "16",
+      "value": 39.97
+    },
+    {
+      "group": "GSE1",
+      "chromosome": "16",
+      "value": 50.0
+    },
+    {
+      "group": "TP53",
+      "chromosome": "17",
+      "value": 7.24
+    },
+    {
+      "group": "NF1",
+      "chromosome": "17",
+      "value": 11.12
+    },
+    {
+      "group": "PPM1D",
+      "chromosome": "17",
+      "value": 99.29
+    },
+    {
+      "group": "SMARCA4",
+      "chromosome": "19",
+      "value": 7.7
+    },
+    {
+      "group": "NOTCH3",
+      "chromosome": "19",
+      "value": 17.92
+    },
+    {
+      "group": "LZTR1",
+      "chromosome": "22",
+      "value": 41.07
+    },
+    {
+      "group": "DDX3X",
+      "chromosome": "X",
+      "value": 57.53
+    },
+    {
+      "group": "ATRX",
+      "chromosome": "X",
+      "value": 27.3
+    }
+  ]
+  
