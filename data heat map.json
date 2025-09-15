@@ -1,39 +1,46 @@
-[
-    {
-      "chr": "1",
-      "pos": 1,
-      "vars": {
-        "gene": "ARID1A",
-        "variant": "likely_pathogenic",
-        "value": 62.38
-      }
-    },
-    {
-      "chr": "1",
-      "pos": 2,
-      "vars": {
-        "gene": "PTCH2",
-        "variant": "likely_benign",
-        "value": 10.04
-      }
-    },
-    {
-      "chr": "2",
-      "pos": 1,
-      "vars": {
-        "gene": "MSH6",
-        "variant": "likely_benign",
-        "value": 32.95
-      }
-    },
-    {
-      "chr": "2",
-      "pos": 2,
-      "vars": {
-        "gene": "IDH1",
-        "variant": "likely_pathogenic",
-        "value": 98.05
-      }
-    }
+{
+  "data": [
+    {"x": "ARID1A", "y": "likely_pathogenic", "value": 0.6238},
+    {"x": "PTCH2", "y": "likely_benign", "value": 0.1004},
+    {"x": "MSH6", "y": "likely_benign", "value": 0.3295},
+    {"x": "IDH1", "y": "likely_pathogenic", "value": 0.9805},
+    {"x": "D2HGDH", "y": "likely_benign", "value": 0.0734},
+    {"x": "CTNNB1", "y": "likely_pathogenic", "value": 0.9984},
+    {"x": "FGFR3", "y": "likely_pathogenic", "value": 0.9983},
+    {"x": "HTT", "y": "likely_benign", "value": 0.0772},
+    {"x": "PDGFRA", "y": "likely_benign", "value": 0.0592},
+    {"x": "MCC", "y": "unknown", "value": 0.5000},
+    {"x": "BRPF3", "y": "likely_benign", "value": 0.0618},
+    {"x": "ARID1B", "y": "ambiguous", "value": 0.4880},
+    {"x": "MET", "y": "likely_benign", "value": 0.0759},
+    {"x": "SMO", "y": "likely_pathogenic", "value": 0.9897},
+    {"x": "MYC", "y": "likely_benign", "value": 0.0717},
+    {"x": "LURAP1L", "y": "unknown", "value": 0.5000},
+    {"x": "NTRK2", "y": "likely_benign", "value": 0.1145},
+    {"x": "PTCH1", "y": "likely_benign", "value": 0.1274},
+    {"x": "KLF4", "y": "unknown", "value": 0.5000},
+    {"x": "TSC1", "y": "likely_benign", "value": 0.1309},
+    {"x": "NOTCH1", "y": "likely_benign", "value": 0.2977},
+    {"x": "FGFR2", "y": "ambiguous", "value": 0.4708},
+    {"x": "ZFTA", "y": "likely_benign", "value": 0.1217},
+    {"x": "KMT2D", "y": "likely_pathogenic", "value": 0.7303},
+    {"x": "SMARCD1", "y": "ambiguous", "value": 0.3929},
+    {"x": "PHLDA1", "y": "unknown", "value": 0.5000},
+    {"x": "ATXN2", "y": "unknown", "value": 0.5000},
+    {"x": "HNF1A", "y": "unknown", "value": 0.5000},
+    {"x": "BRCA2", "y": "likely_benign", "value": 0.0626},
+    {"x": "RB1", "y": "likely_benign", "value": 0.0768},
+    {"x": "DICER1", "y": "likely_benign", "value": 0.1116},
+    {"x": "TSC2", "y": "likely_benign", "value": 0.0794},
+    {"x": "CREBBP", "y": "ambiguous", "value": 0.3997},
+    {"x": "GSE1", "y": "unknown", "value": 0.5000},
+    {"x": "TP53", "y": "likely_benign", "value": 0.0724},
+    {"x": "NF1", "y": "likely_benign", "value": 0.1112},
+    {"x": "PPM1D", "y": "likely_pathogenic", "value": 0.9929},
+    {"x": "SMARCA4", "y": "likely_benign", "value": 0.0770},
+    {"x": "NOTCH3", "y": "likely_benign", "value": 0.1792},
+    {"x": "LZTR1", "y": "ambiguous", "value": 0.4107},
+    {"x": "DDX3X", "y": "likely_pathogenic", "value": 0.5753},
+    {"x": "ATRX", "y": "likely_benign", "value": 0.2730}
   ]
-  
+}
