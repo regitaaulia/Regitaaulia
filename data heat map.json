@@ -1,38 +1,39 @@
 [
-  {
-    "chr": "1",
-    "pos": 1,
-    "vars": {
-      "gene": "ARID1A",
-      "variant": "likely_pathogenic",
-      "value": 62.38
+    {
+      "chr": "1",
+      "pos": 1,
+      "vars": {
+        "gene": "ARID1A",
+        "variant": "likely_pathogenic",
+        "value": 62.38
+      }
+    },
+    {
+      "chr": "1",
+      "pos": 2,
+      "vars": {
+        "gene": "PTCH2",
+        "variant": "likely_benign",
+        "value": 10.04
+      }
+    },
+    {
+      "chr": "2",
+      "pos": 1,
+      "vars": {
+        "gene": "MSH6",
+        "variant": "likely_benign",
+        "value": 32.95
+      }
+    },
+    {
+      "chr": "2",
+      "pos": 2,
+      "vars": {
+        "gene": "IDH1",
+        "variant": "likely_pathogenic",
+        "value": 98.05
+      }
     }
-  },
-  {
-    "chr": "1",
-    "pos": 2,
-    "vars": {
-      "gene": "PTCH2",
-      "variant": "likely_benign",
-      "value": 10.04
-    }
-  },
-  {
-    "chr": "2",
-    "pos": 1,
-    "vars": {
-      "gene": "MSH6",
-      "variant": "likely_benign",
-      "value": 32.95
-    }
-  },
-  {
-    "chr": "2",
-    "pos": 2,
-    "vars": {
-      "gene": "IDH1",
-      "variant": "likely_pathogenic",
-      "value": 98.05
-    }
-  }
-]
+  ]
+  
